@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 print "hello hello!! and more stuff yay";
 ?>
@@ -14,4 +13,3 @@ The content of the document......
 </body>
 
 </html>
->>>>>>> FETCH_HEAD
